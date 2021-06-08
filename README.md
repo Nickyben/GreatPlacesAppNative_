@@ -1,2 +1,2 @@
 # GreatPlacesAppNative_
- An Intermediate level mobile app using google maps, Google cloud features and location
+ An Intermediate level mobile app using Native features like, google maps, Google cloud features, Camera and location
